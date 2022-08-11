@@ -11,11 +11,14 @@ class script(object):
 ✯ <b>Server: HEROKU</b>
 ✯ <b>Build Status: v1.7.0 [BETA]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-<b>- Iam not a open source project. </b>
+<b>- Last Updated on 11-08-2022 at 8.00pm [IST]. </b>
 <b>- Join @CP_Archivedmovies to be updated with me. </b>
-<b>- Last Updated on 26-07-2022 at 7.00pm [IST].</b>
+<b>- Support files More than 2GB 😳</b>
+<b>- Now you can request movie in my pm too😜..</b>
+<b>- Updated pyrogram 🐍</b>
 <b>- Thankz to @rahulp_r for maintaining me.</b>
-<b>- I can only work in @cinemapedikagroup and @cinemapedika, If u want to add me to your group contact my master. </b> \n <b>- My Best Friend : <a href='tg://settings'>This Person</a> </b> 🙌"""
+<b>- I can only work in @cinemapedikagroup and @cinemapedika, If u want to add me to your group contact my master. </b>
+<b>- My Best Friend : <a href='tg://settings'>This Person</a> </b> 🙌"""
     MANUELFILTER_TXT = """HELP: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and I will respond whenever a keyword is found in the message.... 

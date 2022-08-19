@@ -246,6 +246,16 @@ async def start(client, message):
         caption=f_caption,
         protect_content=True if pre == 'filep' else False,
         )
+    
+    
+@Client.on_message(filters.text & filters.private)
+async def msg_handler(c, m):
+     await m.reply_text(
+          "<b>request in my group @cinemapedika or @cinemapedikagroup... </b>"
+     ) 
+        
+
+    
                     
 
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))

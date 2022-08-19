@@ -248,7 +248,7 @@ async def start(client, message):
         )
     
     
-@Client.on_message(filters.text & filters.private)
+@Client.on_message(filters.text & filters.private & ~filters.command("start"))
 async def msg_handler(c, m):
      await m.reply_text(
           "<b>request in my group @cinemapedika or @cinemapedikagroup... </b>"
